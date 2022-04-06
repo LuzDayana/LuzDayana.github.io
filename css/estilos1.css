@@ -1,0 +1,25 @@
+#cabecera { width: 960px; height: 300px; background-image: url(../img/cabecera.jpg); background-repeat: no-repeat;  margin: auto; }
+body { background-image: url(../img/fondopag.jpg); }
+#titulo {margin-left: 10em; margin-top: 2em; float: left; ;}
+#logo img { width: 200px; margin-top:0px; margin-right: 3em; float: right;}
+#menu {border-bottom: solid 4px black; text-align: center; word-spacing: 1em; margin-top: 3em; background-color:rgba(231, 253, 253, .6); width: 750px; font-size: 28px; margin-top: 7em; margin-left: 4em;}
+#menu a { color: black; text-decoration: none; font-family: georgia; font-weight: bold;}
+#menu a:hover {background-color: rgba(0, 0, 0, .6); color: white; text-decoration: none;}
+.activo {background-color: rgba(54, 154, 254, .2); border-bottom: solid 4px gray;}
+
+#contenido {width: 960px; background-color: rgba(25, 2, 47, .8); margin: auto; text-align: right; height: 1480px;}
+#contenido img.frase {text-align: center; border: solid 3px rgba(0, 0, 0, .6); width: 80%; margin-left: 6em; display: inline-block;}
+#contenido img {float: left; margin: 3em; margin-right: 1em;}
+#contenido p {text-align: left; font-size: 23px; font-family: georgia; color: #c0d4fb;}
+#contenido .sinopsis { background-color: salmon; margin-right: 1em; font-size: 30px; margin-top: 1em; padding: 5px 28px; display: inline-block;}
+#contenido a { text-decoration: none; color: black; font-weight: bold;}
+#contenido a:hover {text-decoration: underline;}
+#contenido .textosi { float: left;}
+iframe {float: left; margin-left: 4.5em;}
+
+#footer { clear: both; width: 960px; background-color:rgba(244, 237, 195, .4); margin: auto; height: 120px;}
+#redes { width: 60px; float: left; margin: auto; margin-left: 1em; margin-top: 0.5em;}
+#textoSENA { text-align: right; display: inline-block; margin-left: 18em; margin-top: 0.5em;}
+
+------------------------------------------------------------------------------------------------------------------
+
